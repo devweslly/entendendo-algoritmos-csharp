@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\bin\Debug\net6.0\01_introducao_a_algoritmos.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\bin\Debug\net6.0\01_introducao_a_algoritmos.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\bin\Debug\net6.0\01_introducao_a_algoritmos.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\bin\Debug\net6.0\01_introducao_a_algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\bin\Debug\net6.0\01_introducao_a_algoritmos.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\refint\01_introducao_a_algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\01_introducao_a_algoritmos.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\01_introducao_a_algoritmos\obj\Debug\net6.0\ref\01_introducao_a_algoritmos.dll

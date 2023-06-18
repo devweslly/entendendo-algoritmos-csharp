@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\bin\Debug\net6.0\Entendendo-Algoritmos.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\bin\Debug\net6.0\Entendendo-Algoritmos.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\bin\Debug\net6.0\Entendendo-Algoritmos.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\bin\Debug\net6.0\Entendendo-Algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\bin\Debug\net6.0\Entendendo-Algoritmos.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\refint\Entendendo-Algoritmos.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\Entendendo-Algoritmos.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\Entendendo-Algoritmos\obj\Debug\net6.0\ref\Entendendo-Algoritmos.dll
