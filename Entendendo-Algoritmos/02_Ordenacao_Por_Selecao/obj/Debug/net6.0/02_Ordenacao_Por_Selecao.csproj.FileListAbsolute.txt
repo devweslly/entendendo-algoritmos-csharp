@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\bin\Debug\net6.0\02_Ordenacao_Por_Selecao.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\bin\Debug\net6.0\02_Ordenacao_Por_Selecao.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\bin\Debug\net6.0\02_Ordenacao_Por_Selecao.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\bin\Debug\net6.0\02_Ordenacao_Por_Selecao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\bin\Debug\net6.0\02_Ordenacao_Por_Selecao.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\refint\02_Ordenacao_Por_Selecao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\02_Ordenacao_Por_Selecao.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\02_Ordenacao_Por_Selecao\obj\Debug\net6.0\ref\02_Ordenacao_Por_Selecao.dll
