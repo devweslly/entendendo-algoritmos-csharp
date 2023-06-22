@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\bin\Debug\net6.0\03_Recursao.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\bin\Debug\net6.0\03_Recursao.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\bin\Debug\net6.0\03_Recursao.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\bin\Debug\net6.0\03_Recursao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\bin\Debug\net6.0\03_Recursao.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\refint\03_Recursao.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\03_Recursao.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\03_Recursao\obj\Debug\net6.0\ref\03_Recursao.dll

@@ -2,10 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        /*
-         * Ordenação por seleção
-         */
-
         List<int> arr = new List<int> { 5, 3, 6, 2, 10 };
         Console.WriteLine(string.Join(", ", SelectionSort(arr)));
     }
@@ -16,6 +12,7 @@
 
         for (int indice = 0; indice < novoArr.Count(); indice++)
         {
+            //Encontra o menor elemento da lista e adiciona ao novo array 
             int indiceMenorValor    = EncontrarMenor(arr);
             novoArr[indice]         = arr[indiceMenorValor];
             arr.Remove(arr[indiceMenorValor]);
