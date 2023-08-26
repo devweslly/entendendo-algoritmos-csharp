@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_Ordenacao_Por_Selecao", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_Recursao", "03_Recursao\03_Recursao.csproj", "{16E25A20-3F37-49FA-9EC5-0AA460375740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_QuickSort", "04_QuickSort\04_QuickSort.csproj", "{D7BF2874-2643-4C65-B53D-44444CF97420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_QuickSort", "04_QuickSort\04_QuickSort.csproj", "{D7BF2874-2643-4C65-B53D-44444CF97420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Hash_Tables", "05_Hash_Tables\05_Hash_Tables.csproj", "{B411B5ED-2FC5-48CE-9DB4-BAD479E18DE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Grafo", "06_Grafo\06_Grafo.csproj", "{7125BA78-ACA8-4EAB-A3F1-9B4F828C899B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{D7BF2874-2643-4C65-B53D-44444CF97420}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7BF2874-2643-4C65-B53D-44444CF97420}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7BF2874-2643-4C65-B53D-44444CF97420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B411B5ED-2FC5-48CE-9DB4-BAD479E18DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B411B5ED-2FC5-48CE-9DB4-BAD479E18DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B411B5ED-2FC5-48CE-9DB4-BAD479E18DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B411B5ED-2FC5-48CE-9DB4-BAD479E18DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7125BA78-ACA8-4EAB-A3F1-9B4F828C899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7125BA78-ACA8-4EAB-A3F1-9B4F828C899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7125BA78-ACA8-4EAB-A3F1-9B4F828C899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7125BA78-ACA8-4EAB-A3F1-9B4F828C899B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

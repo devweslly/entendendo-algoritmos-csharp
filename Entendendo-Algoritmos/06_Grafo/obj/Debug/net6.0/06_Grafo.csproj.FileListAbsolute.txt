@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\bin\Debug\net6.0\06_Grafo.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\bin\Debug\net6.0\06_Grafo.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\bin\Debug\net6.0\06_Grafo.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\bin\Debug\net6.0\06_Grafo.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\bin\Debug\net6.0\06_Grafo.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\refint\06_Grafo.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\06_Grafo.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\06_Grafo\obj\Debug\net6.0\ref\06_Grafo.dll

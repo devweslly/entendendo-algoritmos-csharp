@@ -1,0 +1,15 @@
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\bin\Debug\net6.0\05_Hash_Tables.exe
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\bin\Debug\net6.0\05_Hash_Tables.deps.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\bin\Debug\net6.0\05_Hash_Tables.runtimeconfig.json
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\bin\Debug\net6.0\05_Hash_Tables.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\bin\Debug\net6.0\05_Hash_Tables.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.csproj.AssemblyReference.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.AssemblyInfoInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.AssemblyInfo.cs
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.csproj.CoreCompileInputs.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\refint\05_Hash_Tables.dll
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.pdb
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\05_Hash_Tables.genruntimeconfig.cache
+C:\Users\wesll\OneDrive\Área de Trabalho\entendendo-algoritmos-csharp\Entendendo-Algoritmos\05_Hash_Tables\obj\Debug\net6.0\ref\05_Hash_Tables.dll
